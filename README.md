@@ -4,9 +4,9 @@
 
 ### Jon
 
-East const or const West?
-Have you attended other C++ conferences?
-Is this your first online conference?
+* East const or const West?
+* Have you attended other C++ conferences?
+* Is this your first online conference?
 What is your favorite feature of C++20?
 What is the best session you’ve seen so far?
 Are you planing to give a lightning talk?
