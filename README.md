@@ -1,6 +1,6 @@
-# cppcon2020-snap
+# CppCon2020-snack
 
-## A list of tiebreaking questions for cppcon
+## A list of tiebreaking questions 
 
 ### Jon
 
