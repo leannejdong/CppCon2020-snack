@@ -22,6 +22,7 @@
 
 ### Leanne
 
+* What choices of error handling are used in your code base? {exceptions, bool, error return codes with int or enums, success/failure objects (like boost.outcome/expected?)
 * What was your second programming language?
 * What is your favorite build system?
 * What compiler do you use?
